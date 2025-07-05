@@ -16,7 +16,7 @@ A clean, responsive, and simple QR Code Generator built using **HTML**, **CSS**,
 
 ## 📸 Preview
 
-![QR Code Generator Preview](preview.png)
+![QR Code Generator Preview](/qr-code-generator.png)
 
 ---
 
